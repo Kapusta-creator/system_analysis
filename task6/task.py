@@ -2,6 +2,7 @@ import json
 
 STEP = 0.01
 
+
 class Ranges:
     def __init__(self, init_data):
         self.ranges = []
